@@ -3,5 +3,6 @@ export class NewUser {
     firstName: string;
     lastName: string;
     email: string;
-    department:string;
+    department: string;
+    phone: string;
 }
